@@ -2,11 +2,11 @@
 
 [Artigo no DZone](https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k#:~:text=Layered%20Pattern,service%20to%20a%20higher%20layer) [tem uns patterns e umas explicaçõezinhas] (2018)
 
-[Software Architecture Patterns](../assets/software-architecture-patterns.pdf), Mark Richards [livro] (2015)
+[Software Architecture Patterns](../base-files/software-architecture-patterns.pdf), Mark Richards [livro] (2015)
 
 `Blog: parte 1 parte 2 [tá mais pra uma lista de alguns patterns] (2019)` PRECISA CORRIGIR
 
-[Livro Software Architecture in Practice](../assets/software-architecture-in-practice-3rd.pdf) - cap. 13 Architectural Tactics and Patterns
+[Livro Software Architecture in Practice](../base-files/software-architecture-in-practice-3rd.pdf) - cap. 13 Architectural Tactics and Patterns
 
 ## Blackboard
 
