@@ -13,6 +13,6 @@ A ideia é promover um ambiente colaborativo focado em um objetivo. As vantagens
 
 ## Organização
 
-* Os arquivos base estão na pasta [assets](./assets)
+* Os arquivos base estão na pasta [material-base](./material-base)
 * O conteúdo/textos/pautas dos encontros devem ficar numa pasta com a data e o assundo do encontro
   * ex: 01_07_2020_pattern_de_batatinhas
