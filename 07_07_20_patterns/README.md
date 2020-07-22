@@ -33,3 +33,19 @@ Artigo no Medium (com exemplos no final)
 
 Artigo no Medium com exemplos
   * https://medium.com/@sawomirkowalski/design-patterns-interpreter-5b4c0e2b832f
+
+## Event Driven
+
+  * microsserviços assíncronos
+  * topologia:
+    * mediator
+    * broker
+  * escala fácil: feito de vários módulos que processam/recebem os eventos (single purpose)
+  * mediator: evento entra na fila, chega num módulo mediador que redireciona o evento para cada step
+  * broker: os eventos já são direcionados para os módulos do processo. Ex: ficha de hospital (cada processor processa e emite um evento dizendo que acabou. Thank you, next!)
+  * muito usado para IoT
+  * difícil de testar a integração
+
+  https://dzone.com/articles/demystifying-the-event-driven-architecture-making
+  https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture
+  https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html
