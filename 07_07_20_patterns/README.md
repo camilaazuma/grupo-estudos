@@ -47,5 +47,7 @@ Artigo no Medium com exemplos
   * difícil de testar a integração
 
   https://dzone.com/articles/demystifying-the-event-driven-architecture-making
+  
   https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture
+  
   https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html
