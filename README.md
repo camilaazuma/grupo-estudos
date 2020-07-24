@@ -43,6 +43,16 @@ A ideia é promover um ambiente colaborativo focado em um objetivo. As vantagens
 * [Livro do Martin Fowler](./material-base/software-architecture-patterns.pdf) (tem uma seção para cada layer, são 4)
 
 ### 5. Databases, relacionais e não relacionais
+* [Diferença entre cada modelos](https://marquesfernandes.com/banco-de-dados-relacional-sql-e-nao-relacional-nosql-o-que-sao-para-que-servem-e-qual-a-diferenca/)
+* [Diferença entre cada modelos 2](https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc)
+
+* [Non relational data (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data)
+* [Pattern: Transaction](https://www.tonymarston.net/php-mysql/transaction-patterns.html#transaction.pattern)
+* [Patterns para Bancos não relacionais](https://www.geeksforgeeks.org/nosql-data-architecture-patterns/)
+* Possíveis temas: 
+1. Comparar os dois (diferença conceitual; Vantagens e desvantagens);
+2. Patterns/ Arquiteturas para cada modelo;
+3. Quais quality attributes cada um dos modelos provem com mais facilidade ou menos;
 
 ### 6. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 
