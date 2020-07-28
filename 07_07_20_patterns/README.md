@@ -51,3 +51,30 @@ Artigo no Medium com exemplos
   https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture
   
   https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html
+
+## P2P (Peer to Peer)
+
+* [Os nós possuem as mesmas responsabilidades e capacidades](https://www.techopedia.com/definition/454/peer-to-peer-architecture-p2p-architecture#:~:text=Peer-to-peer%20architecture%20(P2P%20architecture)%20is%20a,are%20dedicated%20to%20serving)
+
+* Existem tanto arquiteturas hibridas quanto puras usando P2P
+
+* Vantagens:
+  * descentralização de redes e estruturas;
+  * O que também significa de que o serviço fica menos dependente de um servidor central para prover servicos aos seus clientes, visto que todos possuem as mesmas responsabilidades.
+  * Diminui consumo de banda dos servidores, visto que os clientes também possuem responsabilidades entre eles nos nós
+
+* Desvantagens:
+  * Segurança: Os nós estão sujeitos tanto as vulnerabilidades de clientes remotos, quanto de servidores. 
+    * Se segurança é um requisito forte do sistema, P2P pode ser uma decisão mais complexa de se empregar
+  * Implementação exige que todos os nós saibam mapear a rede (com tabelas de roteamento)
+  * Ele acarreta em [decisões sociais mais difíceis de controlar e mensurar](https://en.wikipedia.org/wiki/Peer-to-peer#Social_implications):
+    * Controlar pirataria é difícil, por conta de que P2P estimula anonimicidade dos nós como um todo.
+
+* [Alguns exemplos](https://en.wikipedia.org/wiki/Peer-to-peer#Applications):
+  * Transferencia de arquivos (Ex.: UTorrent)
+  * Redes de browsers para comunicação de paginas html (Ex.: TOR)
+  * Multimidia (para transferencia de música e vídeos) (Ex.: Spotify tem uma solução híbrida utilizando P2P)
+  * Sistemas de atualização de software (Ex. Client de jogos; Sistema de update do Windows 10)
+  * Sistemas de CriptoMoedas; (Carteira e assinatura de bitcoins é facilitada por conta da arquitetura p2p)
+ 
+ 
