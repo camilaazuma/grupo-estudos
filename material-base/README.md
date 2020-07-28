@@ -9,3 +9,6 @@
   * https://medium.com/better-programming/how-to-design-a-web-application-software-architecture-101-df568b88da76
 
 * [Software Architecture in Practice](./software-architecture-in-practice-3rd.pdf); Third Edition - Len Bass - Paul Clements - Rick Zazman
+
+* Estudo dirigido sobre System Design do Donne Martin:
+  * https://github.com/donnemartin/system-design-primer
