@@ -2,6 +2,11 @@
 
 [Artigo no DZone](https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k#:~:text=Layered%20Pattern,service%20to%20a%20higher%20layer) [tem uns patterns e umas explicaçõezinhas] (2018)
 
+[Aula de Padrões Arquiteturais](https://edisciplinas.usp.br/pluginfile.php/4641854/mod_resource/content/1/Aula%209%20-%20Padr%C3%B5es%20Arquiteturais.pdf)
+
+  * Aula das profas. Elisa Yumi Nakagawa e Lina Garcés do ICMC - USP
+  * O começo da aula é meio esquisito, mas a lista de patterns é bem completa e o conteúdo é aprofundado na medida certa, com exemplos visuais do funcionamento de cada pattern.
+
 [Software Architecture Patterns](../material-base/software-architecture-patterns.pdf), Mark Richards [livro] (2015)
 
 `Blog: parte 1 parte 2 [tá mais pra uma lista de alguns patterns] (2019)` PRECISA CORRIGIR
