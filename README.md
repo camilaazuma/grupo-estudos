@@ -59,6 +59,7 @@ Extra: https://sourcemaking.com/design_patterns
 **Creational**
 * Prototype
 * Factory Method
+
 **Structural**
 * Adapter
 * Bridge
@@ -87,6 +88,7 @@ Extra: https://sourcemaking.com/design_patterns
 #### Extras:
 **Structural**
 * Composite
+
 **Behavioral**
 * Null Object
 * State
