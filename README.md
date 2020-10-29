@@ -79,18 +79,18 @@ Extra: https://sourcemaking.com/design_patterns
 
 #### Funa:
 **Behavioral**
-Memento
-Observer
-Visitor
-Strategy
+* Memento
+* Observer
+* Visitor
+* Strategy
 
 #### Extras:
 **Structural**
-Composite
+* Composite
 **Behavioral**
-Null Object
-State
-Template Method
+* Null Object
+* State
+* Template Method
 
 ### 6. Anti-patterns + exemplo de código com *arquitetura* ruim
 
