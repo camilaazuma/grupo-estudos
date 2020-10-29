@@ -42,9 +42,59 @@ A ideia é promover um ambiente colaborativo focado em um objetivo. As vantagens
 * https://martinfowler.com/eaaCatalog/serviceLayer.html
 * [Livro do Martin Fowler](./material-base/software-architecture-patterns.pdf) (tem uma seção para cada layer, são 4)
 
-### 5. Anti-patterns + exemplo de código com *arquitetura* ruim
+### 5. Design Patterns
 
-### 6. Databases, relacionais e não relacionais
+Leitura: https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
+
+Extra: https://sourcemaking.com/design_patterns
+
+#### Giu:
+**Creational**
+* Simple Factory
+* Abstract Factory
+* Builder
+* Singleton
+
+#### Pedro:
+**Creational**
+* Prototype
+* Factory Method
+**Structural**
+* Adapter
+* Bridge
+
+#### Cah:
+**Structural**
+* Decorator
+* Facade
+* Flyweight
+* Proxy
+
+#### Lari:
+**Behavioral**
+* Chain of Responsibility
+* Command
+* Iterator
+* Mediator
+
+#### Funa:
+**Behavioral**
+Memento
+Observer
+Visitor
+Strategy
+
+#### Extras:
+**Structural**
+Composite
+**Behavioral**
+Null Object
+State
+Template Method
+
+### 6. Anti-patterns + exemplo de código com *arquitetura* ruim
+
+### 7. Databases, relacionais e não relacionais
 * [Diferença entre cada modelos](https://marquesfernandes.com/banco-de-dados-relacional-sql-e-nao-relacional-nosql-o-que-sao-para-que-servem-e-qual-a-diferenca/)
 * [Diferença entre cada modelos 2](https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc)
 
@@ -56,11 +106,11 @@ A ideia é promover um ambiente colaborativo focado em um objetivo. As vantagens
 2. Patterns/ Arquiteturas para cada modelo;
 3. Quais quality attributes cada um dos modelos provem com mais facilidade ou menos;
 
-### 7. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+### 8. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 
-### 8. Picking the right technology (???)
+### 9. Picking the right technology (???)
 
-### 9. Cases do Grokking
+### 10. Cases do Grokking
 
 * [TinyURL](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
