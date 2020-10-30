@@ -108,11 +108,14 @@ Extra: https://sourcemaking.com/design_patterns
 2. Patterns/ Arquiteturas para cada modelo;
 3. Quais quality attributes cada um dos modelos provem com mais facilidade ou menos;
 
-### 8. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+### 9. API architectural styles
+* [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://levelup.gitconnected.com/comparing-api-architectural-styles-soap-vs-rest-vs-graphql-vs-rpc-84a3720adefa)
 
-### 9. Picking the right technology (???)
+### 10. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 
-### 10. Cases do Grokking
+### 11. Picking the right technology (???)
+
+### 12. Cases do Grokking
 
 * [TinyURL](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
