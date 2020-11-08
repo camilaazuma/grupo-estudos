@@ -48,6 +48,8 @@ Leitura: https://github.com/kamranahmedse/design-patterns-for-humans/blob/master
 
 Extra: https://sourcemaking.com/design_patterns
 
+Extra(2): https://refactoring.guru/design-patterns
+
 #### Giu:
 **Creational**
 * Simple Factory
