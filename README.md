@@ -115,11 +115,15 @@ Extra(2): https://refactoring.guru/design-patterns
 
 * [How Netflix Scales its API with GraphQL Federation](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 
-### 10. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+### 10. SOLID
 
-### 11. Picking the right technology (???)
+Vídeo [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y&amp=&t=7s)
 
-### 12. Cases do Grokking
+### 11. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+
+### 12. Picking the right technology (???)
+
+### 13. Cases do Grokking
 
 * [TinyURL](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
