@@ -50,53 +50,33 @@ Extra: https://sourcemaking.com/design_patterns
 
 Extra(2): https://refactoring.guru/design-patterns
 
-#### Giu:
-**Creational**
-* Simple Factory
-* Abstract Factory
-* Builder
-* Singleton
+### 6. Software Development AntiPatterns + exemplo de código com *arquitetura* ruim
 
-#### Pedro:
-**Creational**
-* Prototype
-* Factory Method
+Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 
-**Structural**
-* Adapter
-* Bridge
+**Giu:**
+* Lava Flow
+* Input Kludge
 
-#### Cah:
-**Structural**
-* Decorator
-* Facade
-* Flyweight
-* Proxy
+**Pedro:**
+* Spaghetti Code
+* Mushroom Management
 
-#### Lari:
-**Behavioral**
-* Chain of Responsibility
-* Command
-* Iterator
-* Mediator
+**Cah:**
+* The Blob
+* Boat Anchor
 
-#### Funa:
-**Behavioral**
-* Memento
-* Observer
-* Visitor
-* Strategy
+**Lari:**
+* Poltergeists
+* Continuous Obsolescence
 
-#### Extras:
-**Structural**
-* Composite
+**Funa:**
+* Cut-And-Paste Programming
+* Dead End
 
-**Behavioral**
-* Null Object
-* State
-* Template Method
-
-### 6. Anti-patterns + exemplo de código com *arquitetura* ruim
+**Kah:**
+* Functional Decomposition
+* Walking through a Minefield
 
 ### 7. Databases, relacionais e não relacionais
 * [Diferença entre cada modelos](https://marquesfernandes.com/banco-de-dados-relacional-sql-e-nao-relacional-nosql-o-que-sao-para-que-servem-e-qual-a-diferenca/)
