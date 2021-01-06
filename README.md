@@ -55,8 +55,7 @@ Extra(2): https://refactoring.guru/design-patterns
 Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 
 ### 7. Databases, relacionais e não relacionais
-* [Diferença entre cada modelos](https://marquesfernandes.com/banco-de-dados-relacional-sql-e-nao-relacional-nosql-o-que-sao-para-que-servem-e-qual-a-diferenca/)
-* [Diferença entre cada modelos 2](https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc)
+* [Diferenças entre relacional e não-relacional](https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc)
 
 * [Non relational data (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data)
 * [Pattern: Transaction](https://www.tonymarston.net/php-mysql/transaction-patterns.html#transaction.pattern)
