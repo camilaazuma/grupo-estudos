@@ -54,30 +54,6 @@ Extra(2): https://refactoring.guru/design-patterns
 
 Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 
-**Giu:**
-* Lava Flow
-* Input Kludge
-
-**Pedro:**
-* Spaghetti Code
-* Mushroom Management
-
-**Cah:**
-* The Blob
-* Boat Anchor
-
-**Lari:**
-* Poltergeists
-* Continuous Obsolescence
-
-**Funa:**
-* Cut-And-Paste Programming
-* Dead End
-
-**Kah:**
-* Functional Decomposition
-* Walking through a Minefield
-
 ### 7. Databases, relacionais e não relacionais
 * [Diferença entre cada modelos](https://marquesfernandes.com/banco-de-dados-relacional-sql-e-nao-relacional-nosql-o-que-sao-para-que-servem-e-qual-a-diferenca/)
 * [Diferença entre cada modelos 2](https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc)
@@ -99,11 +75,13 @@ Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 
 Vídeo [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y&amp=&t=7s)
 
-### 11. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+### 11. Caching??
 
-### 12. Picking the right technology (???)
+### 12. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 
-### 13. Cases do Grokking
+### 13. Picking the right technology (???)
+
+### 14. Cases do Grokking
 
 * [TinyURL](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
