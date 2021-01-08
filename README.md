@@ -55,15 +55,50 @@ Extra(2): https://refactoring.guru/design-patterns
 Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 
 ### 7. Databases, relacionais e não relacionais
+
+#### A. Vantagens e desvantagens de relacional e não relacional 
+
 * [Diferenças entre relacional e não-relacional](https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc)
 
+#### B. Patterns de bancos não relacionais e normalizações de bancos relacionais
+
+**[Patterns para Bancos não relacionais](https://www.geeksforgeeks.org/nosql-data-architecture-patterns/)**
+* Key-Value Store Database
+* Column Store Database
+* Document Database
+* Graph Database 
+
+**Normal Forms (relacionais)**
+* Mais completo: [Java T point - DBMS Normalization](https://www.javatpoint.com/dbms-normalization)
+* Mais exemplos para 1~3NF: [1NF, 2NF, 3NF, BCNF Database Example](https://www.guru99.com/database-normalization.html)
+
+Tópicos:
+* 1NF
+* 2NF
+* 3NF
+* BCNF
+* 4NF
+* 5NF
+
+#### C. Vantagens e desvantagens de databases populares no mercado
+
+**Não Relacionais**
+* MongoDB
+* Cassandra
+* ElasticSearch
+* Amazon DynamoDB
+* HBase
+
+**Relacionais**
+* MySQL
+* PostgreSQL
+* Microsoft SQL Server
+* SQLite
+* Oracle
+
+#### Extras
 * [Non relational data (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data)
 * [Pattern: Transaction](https://www.tonymarston.net/php-mysql/transaction-patterns.html#transaction.pattern)
-* [Patterns para Bancos não relacionais](https://www.geeksforgeeks.org/nosql-data-architecture-patterns/)
-* Possíveis temas: 
-1. Comparar os dois (diferença conceitual; Vantagens e desvantagens);
-2. Patterns/ Arquiteturas para cada modelo;
-3. Quais quality attributes cada um dos modelos provem com mais facilidade ou menos;
 
 ### 9. API architectural styles
 * [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://levelup.gitconnected.com/comparing-api-architectural-styles-soap-vs-rest-vs-graphql-vs-rpc-84a3720adefa)
@@ -76,7 +111,11 @@ Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 
 Vídeo [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y&amp=&t=7s)
 
+* [KISS, SOLID, YAGNI And Other Fun Acronyms](https://blog.bitsrc.io/kiss-solid-yagni-and-other-fun-acronyms-b5d207530335)
+
 ### 11. Caching??
+
+* [5 Service Worker Caching Strategies for Your Next Progressive Web Application (PWA) App](https://blog.bitsrc.io/5-service-worker-caching-strategies-for-your-next-pwa-app-58539f156f52)
 
 ### 12. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 
