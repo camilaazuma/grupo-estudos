@@ -63,38 +63,38 @@ Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 #### B. Patterns de bancos não relacionais e normalizações de bancos relacionais
 
 **[Patterns para Bancos não relacionais](https://www.geeksforgeeks.org/nosql-data-architecture-patterns/)**
-* Key-Value Store Database
-* Column Store Database
-* Document Database
-* Graph Database 
+* Key-Value Store Database - Vitu
+* Column Store Database - Ka
+* Document Database - Pedro
+* Graph Database - Giu
 
 **Normal Forms (relacionais)**
 * Mais completo: [Java T point - DBMS Normalization](https://www.javatpoint.com/dbms-normalization)
 * Mais exemplos para 1~3NF: [1NF, 2NF, 3NF, BCNF Database Example](https://www.guru99.com/database-normalization.html)
 
 Tópicos:
-* 1NF
-* 2NF
-* 3NF
-* BCNF
-* 4NF
-* 5NF
+* 1NF - Lari
+* 2NF - Lari
+* 3NF - Pedro
+* BCNF - Cami
+* 4NF - Tig
+* 5NF - Giu
 
 #### C. Vantagens e desvantagens de databases populares no mercado
 
 **Não Relacionais**
-* MongoDB
-* Cassandra
-* ElasticSearch
-* Amazon DynamoDB
-* HBase
+* MongoDB - Cami
+* Cassandra - Tig
+* ElasticSearch - Cami
+* Amazon DynamoDB - Giu
+* HBase - Lari
 
 **Relacionais**
-* MySQL
-* PostgreSQL
-* Microsoft SQL Server
-* SQLite
-* Oracle
+* MySQL - Ka
+* PostgreSQL - Tig
+* Microsoft SQL Server - Pedro
+* SQLite - Ka
+* Oracle - Vitu
 
 #### Extras
 * [Non relational data (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data)
