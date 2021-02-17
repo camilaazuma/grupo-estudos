@@ -21,13 +21,13 @@ A ideia é promover um ambiente colaborativo focado em um objetivo. As vantagens
 
 ### 1. Quality attributes
 
-* Availability - Vitu
+* Availability
 * Interoperability
-* Modifiability - Lari
-* Performance - Ca
-* Security - Pedro
-* Testability - Giu
-* Usability - Ka
+* Modifiability
+* Performance
+* Security
+* Testability
+* Usability
 
 **Materiais:** [livro](./material-base/software-architecture-in-practice-3rd.pdf) e [curso](https://www.coursera.org/lecture/software-architecture/3-3-2-analyzing-and-evaluating-an-architecture-uEtkN)
 
@@ -63,22 +63,14 @@ Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 #### B. Patterns de bancos não relacionais e normalizações de bancos relacionais
 
 **[Patterns para Bancos não relacionais](https://www.geeksforgeeks.org/nosql-data-architecture-patterns/)**
-* Key-Value Store Database - Vitu
-* Column Store Database - Ka
-* Document Database - Pedro
-* Graph Database - Giu
+* Key-Value Store Database
+* Column Store Database
+* Document Database
+* Graph Database
 
 **Normal Forms (relacionais)**
 * Mais completo: [Java T point - DBMS Normalization](https://www.javatpoint.com/dbms-normalization)
 * Mais exemplos para 1~3NF: [1NF, 2NF, 3NF, BCNF Database Example](https://www.guru99.com/database-normalization.html)
-
-Tópicos:
-* 1NF - Lari
-* 2NF - Lari
-* 3NF - Pedro
-* BCNF - Cami
-* 4NF - Tig
-* 5NF - Giu
 
 #### C. Vantagens e desvantagens de databases populares no mercado
 
@@ -102,7 +94,13 @@ Tópicos:
 
 ### 9. API architectural styles
 * [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://levelup.gitconnected.com/comparing-api-architectural-styles-soap-vs-rest-vs-graphql-vs-rpc-84a3720adefa)
+* [API University - Architectural Styles](https://api-university.com/blog/architectural-style-for-apis/)
 
+* REST - André
+* GraphQL - Pedro
+* RPC (+ gRPC bônus) - Vitu
+* SOAP - Tig
+* Falcor - Lari
 
 * [How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 * [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
