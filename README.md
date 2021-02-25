@@ -105,21 +105,26 @@ Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 * [How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 * [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
 
-### 10. SOLID
+### Segurança (TBD - ainda vago pra um tema que tem muito assunto)
+
+### SOLID
 
 Vídeo [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y&amp=&t=7s)
 
 * [KISS, SOLID, YAGNI And Other Fun Acronyms](https://blog.bitsrc.io/kiss-solid-yagni-and-other-fun-acronyms-b5d207530335)
 
-### 11. Caching??
+### Caching
 
 * [5 Service Worker Caching Strategies for Your Next Progressive Web Application (PWA) App](https://blog.bitsrc.io/5-service-worker-caching-strategies-for-your-next-pwa-app-58539f156f52)
 
-### 12. Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+### Filas
 
-### 13. Picking the right technology (???)
 
-### 14. Cases do Grokking
+### CASES
+
+Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+
+Cases do Grokking
 
 * [TinyURL](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
