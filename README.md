@@ -122,6 +122,11 @@ Vídeo [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y&a
 ### Filas
 
 
+### Search Engine Optimization
+
+* [SEO Cheat Sheet](https://d2v4zi8pl64nxt.cloudfront.net/seo-cheat-sheet.pdf?__hstc=103427807.84b9af0d3d2bd9b6fe60930338d41956.1614771424594.1614771424594.1614771424594.1&__hssc=103427807.1.1614771424595&__hsfp=1103165692)
+
+
 ### CASES
 
 Monolith architecture - [Linkedin case](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
