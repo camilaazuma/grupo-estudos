@@ -113,6 +113,8 @@ Vídeo [SOLID - Teoria e Prática](https://www.youtube.com/watch?v=Q2QdkiX6p_Y&a
 
 * [KISS, SOLID, YAGNI And Other Fun Acronyms](https://blog.bitsrc.io/kiss-solid-yagni-and-other-fun-acronyms-b5d207530335)
 
+* Lista: KISS, SOLID, YAGNI, BDUF, DRY, Occam’s Razor
+
 ### Caching
 
 * [5 Service Worker Caching Strategies for Your Next Progressive Web Application (PWA) App](https://blog.bitsrc.io/5-service-worker-caching-strategies-for-your-next-pwa-app-58539f156f52)
