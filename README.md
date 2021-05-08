@@ -17,6 +17,10 @@ A ideia é promover um ambiente colaborativo focado em um objetivo. As vantagens
 * O conteúdo/textos/pautas dos encontros devem ficar numa pasta com a data e o assundo do encontro
   * ex: 01_07_2020_pattern_de_batatinhas
 
+## System Design
+
+* [The System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
+
 ## Cronograma
 
 ### 1. Quality attributes
