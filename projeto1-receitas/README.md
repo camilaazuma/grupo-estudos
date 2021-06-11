@@ -4,23 +4,36 @@
 
 **Escopo**
 
+mVP0
+
 * Usuário pesquisa por receita
     * filtrando pelo nome da receita
     * filtrando pelos ingredientes na receita, incluindo a quantidade máxima dos itens
-* Usuário preenche a lista de ingredientes que tem em casa com speech to text
 * Usuário comenta na receita
-* Usuário cadastra receita dentro do sistema usando texto manual / speech to text
-* Usuário cadastra receita dentro do sistema usando foto do livro da vó do Ricardo, com IA pra reconhecer a receita
-* Usuário edita receita própria / propõe edição de receita de outro usuário (PR)
+* Usuário cadastra receita dentro do sistema usando texto manual
+* Usuário pede para converter unidades científicas para xícaras/colheres (hardcoded)
+* Sistema encontra ingredientes substitutos para as receitas (e fala para o usuário com a voz da bela gil)
+* Usuário edita receita própria
+
+mVP2
+* Usuário propõe edição de receita de outro usuário (PR)
     * Receita é versionada
 * Usuário cria um fork da receita
-* Sistema encontra ingredientes substitutos para as receitas (e fala para o usuário com a voz da bela gil)
-* Sistema atualiza a lista de ingredientes que tem na casa do usuário quando ele faz uma compra em site de mercado
 * Sistema sugere receitas personalizadas de acordo com o histórico de ingredientes do usuário
 * Sistema sugere compras de mercado a partir de ingredientes que liberariam receitas próximas das que o usuário costuma fazer
 * Sistema exibe calorias de cada ingrediente na receita
 
-**Fora do escopo**
+mVPN
+* Usuário preenche a lista de ingredientes que tem em casa com speech to text (integração com a Alexa)
+* Usuário cadastra receita dentro do sistema usando speech to text
+* Usuário pede para converter unidades (smart)
+* Sistema atualiza a lista de ingredientes que tem na casa do usuário quando ele faz uma compra em site de mercado
+
+MVP
+* Usuário cadastra receita dentro do sistema usando foto do livro da vó do Ricardo, com IA pra reconhecer a receita
+
+
+**Fora do escopo (mVP0)**
 
 * Usuário se cadastra no sistema
 * Usuário faz login no sistema
