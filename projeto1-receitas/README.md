@@ -31,6 +31,7 @@ mVPN
 
 MVP
 * Usuário cadastra receita dentro do sistema usando foto do livro da vó do Ricardo, com IA pra reconhecer a receita
+* Internacionacionalização
 
 
 **Fora do escopo (mVP0)**
