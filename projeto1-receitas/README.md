@@ -12,7 +12,7 @@ mVP0
 * Usuário comenta na receita
 * Usuário cadastra receita dentro do sistema usando texto manual
 * Usuário pede para converter unidades científicas para xícaras/colheres (hardcoded)
-* Sistema encontra ingredientes substitutos para as receitas (e fala para o usuário com a voz da bela gil)
+* Sistema encontra ingredientes substitutos para as receitas (e fala para o usuário com a voz da bela gil) (hardcoded)
 * Usuário edita receita própria
 
 mVP2
