@@ -23,7 +23,7 @@ mVP2
 * Sistema sugere compras de mercado a partir de ingredientes que liberariam receitas próximas das que o usuário costuma fazer
 * Sistema exibe calorias de cada ingrediente na receita
 
-mVPN
+mVPN (recursos mobile)
 * Usuário preenche a lista de ingredientes que tem em casa com speech to text (integração com a Alexa)
 * Usuário cadastra receita dentro do sistema usando speech to text
 * Usuário pede para converter unidades (smart)
