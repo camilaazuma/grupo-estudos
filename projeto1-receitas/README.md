@@ -45,30 +45,21 @@ MVP
 
 1. Availability
 
-Geral
-
-* o sistema pode ter 2 estados:
-	* processando (trabalhando na requisição)
-	* bloqueado (incapaz de responder por estar):
-		* aguardando recurso (quando um recurso pode ser usado por um client por vez
-		* disponibilidade: algum recurso pode estar indisponível ou offline
-		* dependencia de outros serviços (precisa esperar resposta de outro serviço)
+* tríade consistência e performance
+    * consistência não é muito importante
+    * podemos pensar ter receitas offline
 
 2. Interoperability
 
-Geral
-
-* Quais são os sistemas (serviços, SO, hardware) integrados e qual a interface entre eles
-	* Possibilidade de sistemas futuros integrarem
+* quais plataformas?
+    * site do mercado
+    * possivelmente apps de delivery
 
 3. Modifiability
 
-Geral
-
-* Podem ocorrer mudanças no hardware, SO, sistemas interoperáveis, na performance do sistema, na qt de usuários etc
-	* Se nem todas as responsabilidades do módulo são alteradas em uma mudança hipotética, talvez elas não devessem estar nesse módulo
-* Quais mudanças devem ser suportadas?
-* Parametrização
+* preocupação é alta, visto como o escopo do projeto expande em suas iterações
+* arquitetura evolutiva
+* modularização, isolar responsabilidade
 
 
 4. [Performance](https://github.com/camilaazuma/grupo-estudos/blob/master/quality-attributes/performance.md)
@@ -79,25 +70,49 @@ Geral
 
 5. Security
 
-Considerações
-
 * estudar LGPD
+* aceitar termos
 
 6. [Testability](https://github.com/camilaazuma/grupo-estudos/blob/master/quality-attributes/testability.MD)
 
-Geral
-
-* capacidade de detectar erros rapidamente através de testes
+* definir estrutura de testes já no começo do projeto
+    * como será testado
+* quais tecnologias serão escolhidas de forma a facilitar testar
 
 7. [Usability](https://github.com/camilaazuma/grupo-estudos/blob/master/quality-attributes/usability.md)
 
-Geral
-
-* quão fácil e intuitivo é para o usuário utilizar o sistema, bem como o suporte que o sistema fornece ao usuário
+* contratar o Rodrigo
+* usuários não podem colocar escalas industriais na receita
 
 ## Restrições
 
 **Suposições**
 
+1. Quais dados tem que ser armazenados?
+
+* username, hash senha, email
+* receita
+    * texto passo a passo
+    * avaliação (score + qt de votos)
+    * ingredientes (nome + qt)
+    * categorias
+    * dificuldade (avental arregaçado, by Tig)
+    * preparo
+    * rendimento
+* comentarios
+
+2. Com quais serviços a gente vai integrar?
+
+* oauth - facebook, gmail, ( apple - a ser avaliado, só quando for lançar funcionalidade de rico)
+
+3. Quais serviços têm que ser implementados? 
+
 
 **Restrições**
+
+1. De que forma temos que nos preocupar com possíveis gargalos? (processamento, acesso ao servidor/banco)
+
+* preocupação com otimização de queries de banco
+* se for aplicação mobile, precisaremos de um backend?
+
+2. Demais restrições?
