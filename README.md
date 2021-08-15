@@ -109,6 +109,8 @@ Leitura: https://sourcemaking.com/antipatterns/software-development-antipatterns
 * [How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 * [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
 
+### [Client-Side Architecture Basics Guide](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
+
 ### Segurança (TBD - ainda vago pra um tema que tem muito assunto)
 
 ### SOLID
