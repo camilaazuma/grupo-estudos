@@ -33,9 +33,10 @@ RECEITA
 (obs: ver como funciona atualização de entidade para 1 campo ou n campos)
 
 SCORE
-
+- GET
 - POST
     - ID usuário
+    - ID da receita
     - nota de 1 a 5
 
 COMENTÁRIO
